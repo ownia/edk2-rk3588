@@ -29,7 +29,7 @@
   $(RK_COMMON_ACPI_DIR)/Fadt.aslc
   $(RK_COMMON_ACPI_DIR)/Gtdt.aslc
   $(RK_COMMON_ACPI_DIR)/Spcr.aslc
-  $(RK_COMMON_ACPI_DIR)/Mcfg.aslc
+  #$(RK_COMMON_ACPI_DIR)/Mcfg.aslc
   $(RK_COMMON_ACPI_DIR)/Dbg2.aslc
   $(RK_COMMON_ACPI_DIR)/Pptt.aslc
 
